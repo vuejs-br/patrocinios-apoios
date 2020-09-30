@@ -1,4 +1,4 @@
-<img width="200" src="vuejs_brasil_logo.jpeg" alt="logo do vue.js brasil">
+<img width="150" src="vuejs_brasil_logo.jpeg" alt="logo do vue.js brasil">
 
 # Comunidade brasileira de Vue.js 🔥
 

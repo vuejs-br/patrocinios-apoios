@@ -1,8 +1,8 @@
-# Apoios e planos de patrocínio
+<img width="200" src="vuejs_brasil_logo.jpeg" alt="logo do vue.js brasil">
 
-![logo do vue.js brasil](vuejs_brasil_logo.jpeg)
+# Comunidade brasileira de Vue.js 🔥
 
-## Comunidade brasileira de Vue.js 🔥
+Apoios e planos de patrocínio
 
 * [Sobre a comunidade](#sobre)
 * [As atividades](#as-atividades)
@@ -34,7 +34,7 @@ A comunidade no total tem **+10k** membros.
 
 _É importante esclarecer que a quantidade de inscrições é limitada de acordo com o espaço onde o evento é realizado ou se ele é online._
 
-### Quem já cedeu espaço para os eventos ❤️
+## Quem já cedeu espaço para os eventos ❤️
 
 ![quem já cedeu espaço nos eventos](brands.png)
 
@@ -44,8 +44,6 @@ _É importante esclarecer que a quantidade de inscrições é limitada de acordo
 
 ## Contato
 
-Alguma dúvida? Entre em contato com a Organização
+Alguma dúvida? Entre em contato com a organização através do [contato@vuejsbrasil.org](mailto:contato@vuejsbrasil.org)
 
-[contato@vuejsbrasil.org](mailto:contato@vuejsbrasil.org)
-
-_foi usado como ref o guia do [golang sp](https://github.com/golangsp/plano-patrocinio/)_
+> _Foi usado como ref o guia do [golang sp](https://github.com/golangsp/plano-patrocinio/)_

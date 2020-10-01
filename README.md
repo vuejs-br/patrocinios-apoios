@@ -22,11 +22,25 @@ Durante os eventos, os participantes podem aprender sobre novas tecnologias, com
 
 ## As atividades 
 
-// TODO:
+Vue.js Brasil é a comunidade principal onde fazemos os eventos mais no online, e ao redor do brasil existem várias comunidades locais(meetups):
+
+- [Belo Horizonte - Vue.js @ Belo Horizonte](https://meetup.com/Vuejs-at-BH)
+- [Curitiba - Vue Curitiba](https://www.facebook.com/Vuejs-Curitiba-286947468925534)
+- [Espírito Santo - Vue.js Vix](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
+- [Florianópolis - Vue.js Floripa](https://meetup.com/floripa-vuejs)
+- [Juazeiro - Vue Sertão](https://www.facebook.com/pages/category/Sports-Event/Vue-sert%C3%A3o-324971338132377/)
+- [Pará - Vue.js Norte](https://www.meetup.com/pt-BR/Vue-js-Norte)
+- [Porto Alegre - Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
+- [Rio de Janeiro - Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
+- [São Paulo - Vue.js @ São Paulo](https://www.meetup.com/VueJS-SP/)
+- [Campo Grande MS - Vue.js @ Campo Grande MS](https://t.me/vuejsms)
+
+e tentamos manter todos conectados para caso alguém precise de alguma ajuda.
 
 ## Por que Patrocinar?
 
-// TODO:
+A ideia do patrocinio é para conseguirmos ferramental (como o [streamyard](https://streamyard.com/)) para fazermos mais coisas e alcançarmos mais gente. Queremos também
+fazer bootcamps gratuitos para formar devs e aumentar o uso do Vue.js pelo brasil.
 
 ## Impacto
 
